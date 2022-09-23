@@ -1,0 +1,142 @@
+
+
+
+/*--------------------------- HTML ------------------------*/
+
+<!-- Blog Area -->
+	<section class="blog-area section_padding_sec">
+		<div class="container">
+			<div class="section_head wow fadeInUp">
+				<h3>Latest Blogs</h3>
+			</div>
+			<div class="blog-gird">
+				<div class="row">
+					<div class="col-lg-4 col-md-6 col-sm-12">
+						<div class="singel-blog wow fadeInUp">
+							<img src="img/blog-1.jpg" alt="" />
+							<div class="blog-details">
+								<ul>
+									<li class="name">By - Admin</li>
+									<li class="date">1 January, 2020</li>
+								</ul>
+								<a href="">Welcome to Our New Head of Production</a>
+								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12">
+						<div class="singel-blog wow fadeInUp">
+							<img src="img/blog-1.jpg" alt="" />
+							<div class="blog-details">
+								<ul>
+									<li class="name">By - Admin</li>
+									<li class="date">1 January, 2020</li>
+								</ul>
+								<a href="">Welcome to Our New Head of Production</a>
+								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-12 col-sm-12">
+						<div class="singel-blog wow fadeInUp">
+							<img src="img/blog-1.jpg" alt="" />
+							<div class="blog-details">
+								<ul>
+									<li class="name">By - Admin</li>
+									<li class="date">1 January, 2020</li>
+								</ul>
+								<a href="">Welcome to Our New Head of Production</a>
+								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Blog Area -->
+	
+	
+/*--------------------------- CSS ------------------------*/	
+	
+	/* Blog arae */
+.blog-area{
+	background-color: #ffffff;
+}
+.blog-gird {}
+.singel-blog {
+    position: relative;
+    background-color: #f7f8fc;
+    border-bottom: 3px solid #ddd;
+	margin-bottom: 30px;
+	transition: .3s;
+}
+.singel-blog:hover {
+    border-bottom: 3px solid #0084d9;
+    box-shadow: 0 20px 25px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 20px 25px rgba(0, 0, 0, 0.15);
+    transform: translateY(-4px);
+    -webkit-transform: translateY(-4px);
+    opacity: 1;
+    visibility: visible;
+}
+.singel-blog img{
+	width: 100%;
+}
+.blog-details {
+    position: relative;
+    margin: 20px 15px 40px;
+}
+.blog-details a {
+    font-size: 24px;
+    display: block;
+    color: #1a252b;
+    font-weight: 600;
+	line-height: 30px;
+	margin-bottom:20px;
+    text-decoration: none;
+	transition: .3s;
+}
+.singel-blog:hover .blog-details a{
+	color: #fecc27;
+}
+.blog-details ul{
+    margin-bottom: 20px;
+}
+.blog-details ul li, .title ul li {
+    display: inline-block;
+}
+.blog-details ul .date, .title ul .date {
+    font-size: 12px;
+    font-weight: 600;
+    color: #222;
+	margin-left: 5px;
+}
+.blog-details ul .date a, .title ul .date a {
+    font-size: 12px;
+    font-weight: 600;
+    color: #222;
+	margin-left: 5px;
+}
+.blog-details ul .name, .title ul .name {
+    font-size: 12px;
+    font-weight: 600;
+    background-color: #999;
+    color: #fff;
+    padding: 2px 15px;
+    border-radius: 30px;
+}
+.singel-blog:hover .blog-details ul .name {
+    background-color: #0084d9;
+}
+/* Blog arae */
+
+/*--------------------------- Responsive ------------------------*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+.singel-blog {
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+}

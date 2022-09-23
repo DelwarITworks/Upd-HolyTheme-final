@@ -1,0 +1,376 @@
+
+
+/* --------------------------------- HTML --------------------------------------*/
+
+
+    <!-- bennar -->
+    <div class="single-bennar">
+        <div class="container">
+            <div class="bennar-text">
+                <h1 class="wow fadeInUp">Blog</h1>
+                <ul class="wow fadeInUp">
+                    <li><a href="index.html">Home</a> > </li>
+                    <li>Blog</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+	<div class="Singel-blog-area section_padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-12 col-sm-12">
+					<div class="blog-detail">
+						<div class="title">
+							<h2>Welcome to Our New Head of Production</h2>
+							<ul>
+								<li class="name"><i class="fas fa-user"></i><a href="">By - Admin</a></li>
+								<li class="date"><i class="far fa-calendar-alt"></i><a href="">1 January, 2020</a></li>
+								<li class="date"><i class="fas fa-comment"></i><a href="">Comments</a></li>
+							</ul>
+						</div>
+						<div class="blog-img">
+							<img src="img/blog-1.jpg" alt="" />
+						</div>
+						<div class="text">
+							<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, 
+							ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+							<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						</div>
+					</div>
+						
+					<div class="blog-gird product-details">
+						<h4 class="wow fadeInUp">Recent Blog </h4>
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-sm-12">
+								<div class="singel-blog wow fadeInUp">
+									<img src="img/blog-1.jpg" alt="" />
+									<div class="blog-details">
+										<ul>
+											<li class="name">By - Admin</li>
+											<li class="date">1 January, 2020</li>
+										</ul>
+										<a href="">Welcome to Our New Head of Production</a>
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-12">
+								<div class="singel-blog wow fadeInUp">
+									<img src="img/blog-1.jpg" alt="" />
+									<div class="blog-details">
+										<ul>
+											<li class="name">By - Admin</li>
+											<li class="date">1 January, 2020</li>
+										</ul>
+										<a href="">Welcome to Our New Head of Production</a>
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="product-details">
+						<h4 class="wow fadeInUp">Comments </h4>
+						<div class="single-reviews wow fadeInUp">
+							<div class="person-img">
+								<img src="img/review_1.jpg" alt="">
+							</div>
+							<div class="person-review">
+								<h5>Jane Doe <span>4<i class="far fa-star"></i></span></h5>
+								<ul>
+									<li><i class="far fa-calendar-alt"></i>Dec 12th</li>
+									<li><i class="far fa-clock"></i>1:00</li>
+									<li><i class="fas fa-street-view"></i>Brezil</li>
+								</ul>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								<ul>
+									<li><a class="bg" href="">Helpful</a></li>
+									<li><a href="">Reply</a></li>
+									<li><a href="">Report</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="single-reviews ml-40 wow fadeInUp">
+							<div class="person-img">
+								<img src="img/review_2.jpg" alt="">
+							</div>
+							<div class="person-review">
+								<h5>Jane Doe <span>4<i class="far fa-star"></i></span></h5>
+								<ul>
+									<li><i class="far fa-calendar-alt"></i>Dec 12th</li>
+									<li><i class="far fa-clock"></i>1:00</li>
+									<li><i class="fas fa-street-view"></i>Brezil</li>
+								</ul>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								<ul>
+									<li><a class="bg" href="">Helpful</a></li>
+									<li><a href="">Reply</a></li>
+									<li><a href="">Report</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="single-reviews wow fadeInUp">
+							<div class="person-img">
+								<img src="img/review_3.jpg" alt="">
+							</div>
+							<div class="person-review">
+								<h5>Jane Doe <span>4<i class="far fa-star"></i></span></h5>
+								<ul>
+									<li><i class="far fa-calendar-alt"></i>Dec 12th</li>
+									<li><i class="far fa-clock"></i>1:00</li>
+									<li><i class="fas fa-street-view"></i>Brezil</li>
+								</ul>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								<ul>
+									<li><a class="bg" href="">Helpful</a></li>
+									<li><a href="">Reply</a></li>
+									<li><a href="">Report</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="single-reviews ml-40 mb-0 wow fadeInUp">
+							<div class="person-img">
+								<img src="img/review_4.jpg" alt="">
+							</div>
+							<div class="person-review">
+								<h5>Jane Doe <span>4<i class="far fa-star"></i></span></h5>
+								<ul>
+									<li><i class="far fa-calendar-alt"></i>Dec 12th</li>
+									<li><i class="far fa-clock"></i>1:00</li>
+									<li><i class="fas fa-street-view"></i>Brezil</li>
+								</ul>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								<ul>
+									<li><a class="bg" href="">Helpful</a></li>
+									<li><a href="">Reply</a></li>
+									<li><a href="">Report</a></li>
+								</ul>
+							</div>
+						</div>
+                        </div>
+                        <div class="product-details mb-0">
+                            <h4 class="wow fadeInUp">Write Comments</h4>
+							<form id="contactForm">
+                                <div class="row"> 
+                                    <div class="col-sm-12 col-md-12">
+                                        <div class="form-group wow fadeInUp">
+                                            <input type="text" class="form-control" required data-error="Please enter your first name" name="First name" placeholder="Name">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-12"> 
+                                        <div class="form-group wow fadeInUp">
+                                            <input type="email" class="form-control" required data-error="Please enter your email" name="email" placeholder="Email">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-12">
+                                        <div class="form-group wow fadeInUp">
+                                            <textarea class="form-controls" required data-error="Write your message" rows="5" placeholder="Message"></textarea>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="contact-btn wow fadeInUp">
+                                    <button type="submit" class="cont-btn">Send Message</button>
+                                    <div id="msgSubmit" class="h3 text-center hidden"></div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </form>
+                        </div>
+				</div>
+				<div class="col-lg-5 col-md-12 col-sm-12">
+					<div class="single-product-right">
+						<div class="product-details">
+							<h4>Recent News</h4>
+							<div class="single-news wow fadeInUp">
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-4">
+										<a href=""><img src="img/s_p.jpg" alt=""></a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-8">
+										<div class="title">
+											<a class="title" href="">Cryptocurrency Is Harder to Launder Than Fiat Currency</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="single-news wow fadeInUp">
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-4">
+										<a href=""><img src="img/s_p.jpg" alt=""></a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-8">
+										<div class="title">
+											<a class="title" href="">Cryptocurrency Is Harder to Launder Than Fiat Currency</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="single-news wow fadeInUp">
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-4">
+										<a href=""><img src="img/s_p.jpg" alt=""></a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-8">
+										<div class="title">
+											<a class="title" href="">Cryptocurrency Is Harder to Launder Than Fiat Currency</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="single-news wow fadeInUp">
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-4">
+										<a href=""><img src="img/s_p.jpg" alt=""></a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-8">
+										<div class="title">
+											<a class="title" href="">Cryptocurrency Is Harder to Launder Than Fiat Currency</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="single-news wow fadeInUp mb-0">
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-4">
+										<a href=""><img src="img/s_p.jpg" alt=""></a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-8">
+										<div class="title">
+											<a class="title" href="">Cryptocurrency Is Harder to Launder Than Fiat Currency</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="product-details">
+							<h4 class="wow fadeInUp">Shares</h4>
+							<ul class="social-icon wow fadeInUp">
+								<li><a class="facebook" href=""><i class="fab fa-facebook-f"></i></a></li>
+								<li><a class="skype" href=""><i class="fab fa-skype"></i></a></li>
+								<li><a class="google" href=""><i class="fab fa-google-plus-g"></i></a></li>
+								<li><a class="linkedin" href=""><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a class="pinterest" href=""><i class="fab fa-pinterest-p"></i></a></li>
+							</ul>
+						</div>
+						<div class="product-details">
+							<div class="protfolio-area">
+								<h3 class="wow fadeInUp">Theme Be</h3>
+								<a class="wow fadeInUp" href="">View Portfolio</a>
+							</div>
+						</div>
+						<div class="product-details">
+							<h4 class="wow fadeInUp">Tags</h4>
+							<ul class="tag">
+								<li class="wow fadeInUp"><a href="">Team</a></li>
+								<li class="wow fadeInUp"><a href="">Charity</a></li>
+								<li class="wow fadeInUp"><a href="">Volunteer</a></li>
+								<li class="wow fadeInUp"><a href="">Volunteer</a></li>
+								<li class="wow fadeInUp"><a href="">Human</a></li>
+								<li class="wow fadeInUp"><a href="">Education</a></li>
+								<li class="wow fadeInUp"><a href="">UI</a></li>
+								<li class="wow fadeInUp"><a href="">Speech</a></li>
+								<li class="wow fadeInUp"><a href="">News</a></li>
+								<li class="wow fadeInUp"><a href="">2016</a></li>
+								<li class="wow fadeInUp"><a href="">Welfare</a></li>
+								<li class="wow fadeInUp"><a href="">Design</a></li>
+								<li class="wow fadeInUp"><a href="">Event</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+ /* --------------------------------- END HTML --------------------------------------*/
+ 
+ 
+ /* --------------------------------- CSS --------------------------------------*/
+ 
+ 
+ 
+.Singel-blog-area {
+	background-color: #fff;
+}
+.title h2 {
+    font-size: 40px;
+    font-weight: 900;
+    color: #000;
+    margin-bottom: 30px;
+}
+.title ul .name {
+    background-color: #0084d9 !important;
+}
+.title ul li{
+    margin-right: 10px;
+}
+.title ul li a {
+    font-size: 14px !important;
+}
+li.name a {
+    color: #fff;
+    margin-left: 8px;
+}
+
+.social-icon{
+	position: relative;
+	text-align: right;
+}
+.blog-detail {
+    background-color: #f7f8fc;
+	padding: 20px 20px 20px;
+    margin-bottom: 30px;
+}
+ul.social-icon li a i {
+    font-size: 16px;
+    color: #0084d9;
+    border: 1px solid #0084d9;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+	transition: .3s;
+}
+ul.social-icon li a i:hover {
+    color: #fff;
+	background-color: #0084d9;
+    border: 1px solid #0084d9;
+}
+.blog-img {
+    margin: 30px 0;
+}
+.blog-img img{
+	width: 100%;
+}
+
+.Singel-blog-area .product-details {
+    background-color: #f7f8fc;
+}
+.Singel-blog-area .single-news {
+    background-color: #ffffff;
+}
+
+.blog-gird .singel-blog {
+    background-color: #ffffff;
+}
+
+
+ /* --------------------------------- END CSS --------------------------------------*/
+ 
+ 
+ 
+  /* --------------------------------- RESPONSIVE --------------------------------------*/
+  
+  
+.title h2 {
+    font-size: 24px;
+}
+  
+  
+  /* --------------------------------- END RESPONSIVE --------------------------------------*/
